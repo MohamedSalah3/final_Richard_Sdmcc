@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\Last_version Richard\EWARM\settings\Last_version Richard.Last_version_Richard.general.xcl" --backend -f "D:\Last_version Richard\EWARM\settings\Last_version Richard.Last_version_Richard.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\final richard\EWARM\settings\Last_version Richard.Last_version_Richard.general.xcl" --backend -f "D:\final richard\EWARM\settings\Last_version Richard.Last_version_Richard.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\Last_version Richard\EWARM\settings\Last_version Richard.Last_version_Richard.general.xcl" --debug_file=$debugfile --backend -f "D:\Last_version Richard\EWARM\settings\Last_version Richard.Last_version_Richard.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\final richard\EWARM\settings\Last_version Richard.Last_version_Richard.general.xcl" --debug_file=$debugfile --backend -f "D:\final richard\EWARM\settings\Last_version Richard.Last_version_Richard.driver.xcl" 
 }

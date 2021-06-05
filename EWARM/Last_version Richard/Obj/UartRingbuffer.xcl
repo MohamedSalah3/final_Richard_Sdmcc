@@ -1,50 +1,50 @@
-"D:\Last_version Richard\Core\Src\UartRingbuffer.c"
+"D:\final richard\Core\Src\UartRingbuffer.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-D:\Last_version Richard\EWARM\Last_version Richard\Obj\UartRingbuffer.pbi.dep
+D:\final richard\EWARM\Last_version Richard\Obj\UartRingbuffer.pbi.dep
 -o
 UartRingbuffer.pbi
 -I
-D:\Last_version Richard\Core\Src
+D:\final richard\Core\Src
 -I
-D:\Last_version Richard\EWARM/../FATFS/Target
+D:\final richard\EWARM/../FATFS/Target
 -I
-D:\Last_version Richard\EWARM/../FATFS/App
+D:\final richard\EWARM/../FATFS/App
 -I
-D:\Last_version Richard\EWARM/../Core/Inc
+D:\final richard\EWARM/../Core/Inc
 -I
-D:\Last_version Richard\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc
+D:\final richard\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc
 -I
-D:\Last_version Richard\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy
+D:\final richard\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy
 -I
-D:\Last_version Richard\EWARM/../Middlewares/Third_Party/FatFs/src
+D:\final richard\EWARM/../Middlewares/Third_Party/FatFs/src
 -I
-D:\Last_version Richard\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include
+D:\final richard\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include
 -I
-D:\Last_version Richard\EWARM/../Drivers/CMSIS/Include
+D:\final richard\EWARM/../Drivers/CMSIS/Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
 -I
-D:\Last_version Richard\FATFS\Target
+D:\final richard\FATFS\Target
 -I
-D:\Last_version Richard\FATFS\App
+D:\final richard\FATFS\App
 -I
-D:\Last_version Richard\Core\Inc
+D:\final richard\Core\Inc
 -I
-D:\Last_version Richard\Drivers\STM32L4xx_HAL_Driver\Inc
+D:\final richard\Drivers\STM32L4xx_HAL_Driver\Inc
 -I
-D:\Last_version Richard\Drivers\STM32L4xx_HAL_Driver\Inc\Legacy
+D:\final richard\Drivers\STM32L4xx_HAL_Driver\Inc\Legacy
 -I
-D:\Last_version Richard\Middlewares\Third_Party\FatFs\src
+D:\final richard\Middlewares\Third_Party\FatFs\src
 -I
-D:\Last_version Richard\Drivers\CMSIS\Device\ST\STM32L4xx\Include
+D:\final richard\Drivers\CMSIS\Device\ST\STM32L4xx\Include
 -I
-D:\Last_version Richard\Drivers\CMSIS\Include
+D:\final richard\Drivers\CMSIS\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
