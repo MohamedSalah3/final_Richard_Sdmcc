@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "c:@huart4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "huart4",
+    "location": {
+      "column": "20",
+      "line": "26",
+      "path": "D:\\freelance\\Core\\Src\\usart.c"
+    },
+    "name": "huart4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MX_UART4_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_UART4_Init(void)",
+    "location": {
+      "column": "7",
+      "line": "35",
+      "path": "D:\\freelance\\Core\\Src\\usart.c"
+    },
+    "name": "MX_UART4_Init",
+    "origin": "project_file",
+    "scope": null
+  }
+]
